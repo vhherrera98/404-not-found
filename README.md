@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/vhherrera98/404-not-found">
       Solution
     </a>
     <span> | </span>
@@ -61,5 +61,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/vhherrera98})
-- Twitter [@your-twitter](https://{twitter.com/vhherrera98})
+- GitHub [@your-username](https://github.com/vhherrera98)
+- Twitter [@your-twitter](https://twitter.com/vhherrera98)
